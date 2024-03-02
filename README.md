@@ -1,4 +1,4 @@
-# Computer Vision Object Detection using Faster R-CNN, Mask R-CNN, and YOLOv8
+# Computer Vision: Object Detection using Faster R-CNN, Mask R-CNN, and YOLOv8
 
 ## Overview
 This repository contains implementations of object detection using three popular algorithms: Faster R-CNN, Mask R-CNN, and YOLOv8. These models are widely used in the field of computer vision for tasks such as object localization and segmentation.
